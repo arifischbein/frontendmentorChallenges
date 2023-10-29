@@ -9,4 +9,6 @@ Chalenges: <br>
 <br>
 [02 - 3 column preview card](https://arifischbein.github.io/frontendmentorChallenges/02-3-column-preview-card/)
 <br>
-[03 - single price grid component](03-single-price-grid-component)
+[03 - single price grid component](https://arifischbein.github.io/frontendmentorChallenges/03-single-price-grid-component)
+<br>
+[04 - order summary component](https://arifischbein.github.io/frontendmentorChallenges/04-order-summary-component)
